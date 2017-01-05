@@ -1,8 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
 
 
 
@@ -763,6 +764,9 @@ h6,
   color: #000000;
   font-size: 72px;
 }
+#header1-3z .mbr-section-lead B {
+  color: #ffffff;
+}
 #msg-box5-1 .btn {
   font-size: 14px;
 }
@@ -802,6 +806,7 @@ h6,
 }
 #msg-box6-4r H3 {
   color: #000000;
+  font-family: 'Oswald', sans-serif;
 }
 #extMsg-box1-4z P {
   color: #000000;
@@ -1011,6 +1016,9 @@ h6,
 
 
 
+#msg-box1-4a H3 {
+  color: #000000;
+}
 #menu-2a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1093,6 +1101,9 @@ h6,
 
 
 
+#msg-box1-47 H3 {
+  color: #000000;
+}
 #menu-27 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1247,6 +1258,9 @@ h6,
 }
 #menu-2v .btn {
   font-family: 'Lato', sans-serif;
+}
+#msg-box1-4h H3 {
+  color: #000000;
 }
 #features1-4i .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #000000;
@@ -1694,6 +1708,9 @@ h6,
 #menu-l .btn {
   font-family: 'Lato', sans-serif;
 }
+#msg-box1-4j H3 {
+  color: #000000;
+}
 #features1-4k .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #000000;
 }
@@ -1703,6 +1720,9 @@ h6,
 
 
 
+#msg-box1-8c H3 {
+  color: #000000;
+}
 #menu-3q .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1778,6 +1798,18 @@ h6,
 }
 #features1-4e .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #000000;
+}
+#msg-box5-88 H3 {
+  color: #000000;
+}
+#msg-box5-88 B {
+  color: #faaf40;
+}
+#msg-box4-89 H3 {
+  color: #000000;
+}
+#msg-box5-8a H3 {
+  color: #43b63d;
 }
 #contacts1-26 SPAN {
   color: #faaf40;
@@ -2209,6 +2241,12 @@ h6,
 #header1-57 .mbr-section-title {
   color: #ffffff;
 }
+#msg-box5-5a H3 {
+  color: #faaf40;
+}
+#msg-box5-5b H3 {
+  color: #faaf40;
+}
 #header3-5c .mbr-section-title,
 #header3-5c .mbr-section-subtitle {
   text-align: center;
@@ -2226,6 +2264,7 @@ h6,
 #header3-5f H3 {
   font-size: 36px;
   text-align: right;
+  color: #faaf40;
 }
 #content1-5g UL {
   font-size: 25px;
@@ -2237,6 +2276,7 @@ h6,
 #header3-5h H3 {
   font-size: 36px;
   text-align: right;
+  color: #faaf40;
 }
 #content1-5i UL {
   font-size: 25px;
@@ -2251,9 +2291,21 @@ h6,
 #extHeader12-5l H3 {
   color: #000000;
 }
+#msg-box5-5n H3 {
+  color: #faaf40;
+}
+#msg-box5-5r H3 {
+  color: #faaf40;
+}
+#msg-box5-5s H3 {
+  color: #faaf40;
+}
 #header3-5y .mbr-section-title,
 #header3-5y .mbr-section-subtitle {
   text-align: center;
+}
+#header3-5y H3 {
+  color: #faaf40;
 }
 #content1-5z UL {
   font-size: 25px;
@@ -2262,21 +2314,41 @@ h6,
 #header3-61 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-61 H3 {
+  color: #faaf40;
+}
 #content1-62 UL {
   font-size: 25px;
 }
 #content1-63 UL {
   font-size: 25px;
 }
+#msg-box5-64 H3 {
+  color: #faaf40;
+}
+#msg-box5-65 H3 {
+  color: #faaf40;
+}
+#msg-box5-66 H3 {
+  color: #faaf40;
+}
 #header3-68 .mbr-section-title,
 #header3-68 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-68 H3 {
+  color: #faaf40;
+}
 #msg-box5-69 H3 {
   font-size: 32px;
+  color: #faaf40;
 }
 #msg-box5-6a H3 {
   font-size: 32px;
+  color: #faaf40;
+}
+#msg-box5-6b H3 {
+  color: #faaf40;
 }
 #msg-box5-6c H3 {
   color: #faaf40;
@@ -2375,7 +2447,7 @@ h6,
 }
 #extHeader12-70 H3 {
   color: #000000;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #extHeader12-70 SPAN {
   color: #000000;
@@ -2397,6 +2469,7 @@ h6,
 #msg-box5-73 H3 {
   font-family: 'Montserrat', sans-serif;
   font-size: 36px;
+  color: #faaf40;
 }
 #extFeatures14-7a H3 {
   color: #faaf40;
@@ -2413,7 +2486,7 @@ h6,
 }
 #extHeader6-74 H3 {
   font-family: 'Oswald', sans-serif;
-  color: #ffffff;
+  color: #faaf40;
 }
 #extHeader6-74 P {
   color: #ffffff;
